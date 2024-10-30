@@ -7,4 +7,5 @@ Skillset:
 Java, Html/CSS, SQL, MS Word and Excel
 
 Linkedin: https://www.linkedin.com/in/alexsonzapanta/
+
 Certification: https://courses.cognitiveclass.ai/certificates/f06ea5dfe96144b689fbd0b56746ce07
