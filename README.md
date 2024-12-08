@@ -19,6 +19,7 @@
 | Certificate | Issued by | Date Issued |
 | :-------------: | :-----: | :-----------: |
 | <a href="https://courses.cognitiveclass.ai/certificates/f06ea5dfe96144b689fbd0b56746ce07">SQL and Relation Database 101</a> | Cognitive Class | October 30, 2024 | 
+| <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=997CA3B90B31F323F46FCFEF6BAD071B102808BA4BD69D408C1B549E378BEE86">Oracle Cloud Infrastructure 2024 </a> | Oracle | December 08, 2024 | 
 
 
 </div>
