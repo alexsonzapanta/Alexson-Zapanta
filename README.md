@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Alexson! 👋<br/>
 <a href="https://github.com/alexsonzapanta">Programmer</a> | 
-<a href="https://www.linkedin.com/in/alexsonzapanta/">Java Junior Trainee</a> | 
+<a href="https://www.linkedin.com/in/alexsonzapanta/">Junior Analyst/Developer</a> | 
 <a href="https://www.youtube.com/@xxrem">YouTuber</a>
 </h1>
 
@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi! I'm **Alexson Zapanta**, a passionate tech enthusiast currently pursuing a degree in **Information Technology**. I love building useful software, solving data problems, and sharing knowledge. My interests span **full-stack development**, **cloud technologies**, **data visualization**, and **AI foundations**. I'm also active on YouTube, creating tech-related content and tutorials.
+Hi! I'm **Alexson Zapanta**, a passionate tech enthusiast currently pursuing a degree in **Information Technology**. I love building useful software, solving data problems, and sharing knowledge. My interests span **full-stack development**, **cloud technologies**, **data visualization**, and **AI foundations**. I'm also active on YouTube, I love playing game as my past time and making content and tutorials.
 
 ---
 
