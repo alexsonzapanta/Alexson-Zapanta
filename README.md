@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-Hi! I'm **Alexson Zapanta**, a passionate tech enthusiast currently pursuing a degree in **Information Technology**. I love building useful software, solving data problems, and sharing knowledge. My interests span **full-stack development**, **cloud technologies**, **data visualization**, and **AI foundations**. I'm also active on YouTube, I love playing game as my past time and making content and tutorials.
+Hi! I'm **Alexson Zapanta**, a passionate tech enthusiast currently pursuing a degree in **Information Technology**. I love building useful software, solving data problems, and sharing knowledge. My interests span **full-stack development**, **cloud technologies**, **data visualization**, and **AI foundations**. I'm also active on YouTube, I love playing games as my past time and making content and tutorials.
 
 ---
 
@@ -29,7 +29,7 @@ Hi! I'm **Alexson Zapanta**, a passionate tech enthusiast currently pursuing a d
 | Project | Description | Technologies | Link |
 |--------|-------------|--------------|------|
 | **MyPortfolio** | A personal portfolio site to showcase my resume, skills, and projects. | HTML, CSS, JavaScript | [View Project](#) |
-| **Weather App** | A web app showing real-time weather data via API integration. | JavaScript, OpenWeather API | [View Project](#) |
+| **Weather App** | A web app showing real-time weather data via API integration. | JavaScript, OpenWeather API | [View Project](https://github.com/alexsonzapanta/weather-app) |
 | **Student Record System** | A Java desktop app to manage student records with database storage. | Java, MySQL | [View Project](#) |
 | **YouTube Automation Tool** | Python scripts to automate content uploads and schedule videos. | Python, YouTube API | [View Project](#) |
 
