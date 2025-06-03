@@ -28,8 +28,8 @@ Hi! I'm **Alexson Zapanta**, a passionate tech enthusiast currently pursuing a d
 
 | Project | Description | Technologies | Link |
 |--------|-------------|--------------|------|
-| **MyPortfolio** | A personal portfolio site to showcase my resume, skills, and projects. | HTML, CSS, JavaScript | [View Project](#) |
-| **Weather App** | A web app showing real-time weather data via API integration. | JavaScript, OpenWeather API | [View Project](https://github.com/alexsonzapanta/weather-app) |
+| **Portfolio** | A personal portfolio site to showcase my resume, skills, and projects. | HTML, CSS, JavaScript | [View Project](#) |
+| **Weather App** | A web app showing real-time weather data via API integration. | JavaScript, OpenWeather API | [View Project](https://alexsonzapanta.github.io/Weather-App/) |
 | **Student Record System** | A Java desktop app to manage student records with database storage. | Java, MySQL | [View Project](#) |
 | **YouTube Automation Tool** | Python scripts to automate content uploads and schedule videos. | Python, YouTube API | [View Project](#) |
 
